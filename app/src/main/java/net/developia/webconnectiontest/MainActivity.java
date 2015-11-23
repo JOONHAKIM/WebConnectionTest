@@ -7,6 +7,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.NameValuePair;
@@ -25,8 +26,10 @@ public class MainActivity extends AppCompatActivity {
     Button btnSend;
     String name, id;
 
-    Button test;
-    EditText test2;
+
+
+
+    TextView text;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
