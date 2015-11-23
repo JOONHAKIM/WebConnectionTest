@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
     Button btnSend;
     String name, id;
 
+    Button test;
+    EditText test2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
