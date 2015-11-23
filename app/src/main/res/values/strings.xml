@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebConnectionTest</string>
+    <string name="site_url">http://70.12.110.79/androidWeb/</string>
+</resources>
